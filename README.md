@@ -1,4 +1,4 @@
-# Base de datos de AMR
+# Base de datos de DesignBosco
 Base de datos de la empresa. Materia Base de Datos.
 
 - Realizar el MER de la realidad planteada.
